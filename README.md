@@ -1,6 +1,7 @@
 # Family War
 
 ## Backstory
+In the year 2018 Brian and Louis Griffin made the mistake of taking away Stewy's little tricycle. They did not know that Stewy had the brain of a genius and the talent of an adult man committed to seeking vengence. Stewy set out to make a laser blaster while Brian and Louis had no clue what was coming for them. Stewy is now ready for his attack and he needs your help to defeat his closest enemies.
 
 ## Instructions
 1. Click space to start the game. 
@@ -10,6 +11,7 @@
 
 ## Scoring and Powerups
 1. You have 3 lives until the game ends and you can accumalate points by killing Brian and Louis which both have multiple varying lives.
-2. Also get 5 extra points if your accuracy is good enough at the end of the game.
+2. Also gain 5 extra points if your accuracy is good enough at the end of the game.
 3. Collect powerups(chickens) to refill your lives and to shoot double shots.
 4. If you clear one row of enemies and you have an accuracy of 40% or greater than your speed will be increased so make sure to not waste ammo.
+5. Defeat both rows of Brian and Louis with the greatest accuracy to win.
