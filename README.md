@@ -16,6 +16,9 @@ In the year 2018 Brian and Louis Griffin made the mistake of taking away Stewy's
 4. If you clear one row of enemies and you have an accuracy of 40% or greater than your speed will be increased so make sure to not waste ammo.
 5. Defeat both rows of Brian and Louis with the greatest accuracy to win.
 
+## Take a Look at the Gameplay
+
+
 ## Credits
 Created by Ian Truesdale
 Sounds from freesound.org
