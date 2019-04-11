@@ -17,7 +17,7 @@ In the year 2018 Brian and Louis Griffin made the mistake of taking away Stewy's
 5. Defeat both rows of Brian and Louis with the greatest accuracy to win.
 
 ## Take a Look at the Gameplay
-!(/pictures/gameplay.png)
+![Gameplay](/screenshots/Gameplay.png)
 
 ## Credits
 Created by Ian Truesdale
