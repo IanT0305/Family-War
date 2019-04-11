@@ -1,37 +1,17 @@
-## Family War
+# Family War
 
-You can use the [editor on GitHub](https://github.com/IanT0305/Family-War/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Backstory
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Instructions
+1. Click space to start the game. 
+2. Once started you can press space to shoot Louis and Brian as they drop bombs on you.
+3. You have 3 lives until the game ends and you can accumalate points by killing Brian and Louis which have multiple varying lives.
+4. Move side to side with left and right arrows and move up and down with the up and down arrows.
+5. Collect powerups(chickens) to refill your lives and to shoot double shots.
+6. If you clear one row of enemies and you have an accuracy of 40% or greater than your speed will be increased so make sure to not waste ammo.
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IanT0305/Family-War/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
