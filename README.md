@@ -12,12 +12,12 @@ In the year 2018 Brian and Louis Griffin made the mistake of taking away Stewy's
 ## Scoring and Powerups
 1. You have 3 lives until the game ends and you can accumalate points by killing Brian and Louis which both have multiple varying lives.
 2. Also gain 5 extra points if your accuracy is good enough at the end of the game.
-3. Collect powerups(chickens) to refill your lives and to shoot double shots.
+3. Collect powerups(chicken and Peter) to refill your lives and to shoot double shots.
 4. If you clear one row of enemies and you have an accuracy of 40% or greater than your speed will be increased so make sure to not waste ammo.
 5. Defeat both rows of Brian and Louis with the greatest accuracy to win.
 
 ## Take a Look at the Gameplay
-
+![GitHub Logo](/pictures/Gameplay.png)
 
 ## Credits
 Created by Ian Truesdale
