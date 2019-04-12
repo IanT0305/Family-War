@@ -21,9 +21,6 @@ In the year 2018 Brian and Louis Griffin made the mistake of taking away Stewy's
 
 ![Gameplay2](/screenshots/Gameplay2.png)
 
-## Download Code
-https://iant0305.github.io/Family-War/ - automatic!
-
 ## Credits
 Created by Ian Truesdale
 Sounds from freesound.org
