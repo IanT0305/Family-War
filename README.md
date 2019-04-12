@@ -22,6 +22,6 @@ In the year 2018 Brian and Louis Griffin made the mistake of taking away Stewy's
 ![Gameplay2](/screenshots/Gameplay2.png)
 
 ## Credits
-Created by Ian Truesdale
-Sounds from freesound.org
-Pictures from Google Images
+> Created by Ian Truesdale
+> Sounds from freesound.org
+> Pictures from Google Images
