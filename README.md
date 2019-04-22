@@ -1,5 +1,3 @@
-# Family War
-
 ## Backstory
 In the year 2018 Brian and Louis Griffin made the mistake of taking away Stewy's little tricycle. They did not know that Stewy had the brain of a genius and the talent of an adult man committed to seeking vengence. Stewy set out to make a laser blaster while Brian and Louis had no clue what was coming for them. Stewy is now ready for his attack and he needs your help to defeat his closest enemies.
 
